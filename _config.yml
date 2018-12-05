@@ -9,8 +9,8 @@ permalink:           /:title
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         seoa9
-title:               전지적 서아 시점
+name:				         전지적 서아 시점
+title:               seoa9
 tagline:             'tagline'
 description:         'description'
 url:                 seoa9.github.io
@@ -25,7 +25,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Seoa9
-  url:            	 seoa9.github.io
+  url:            	 ./about
   facebook:          username
   twitter:           username
   google_plus:       username

@@ -529,21 +529,26 @@ body {
 }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg);
+  color: rgba(255, 255, 255, 0.8);
+  /* background-image: url(../images/logo-text-white.svg); */
+}
+
+.textLogo--white:hover {
+  color: white;
 }
 
 .textLogo--sidebar {
   width: 100%;
   height: auto;
-  background-size: contain;
-  background-position: center;
-  opacity: 0.8;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  /* background-size: contain;
+  background-position: center; */
+  /* opacity: 0.8; */
+  /* -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)"; */
 }
 
 .textLogo--sidebar:hover {
-  opacity: 1;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  /* opacity: 1; */
+  /* -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; */
 }
 
 .textLogo--frontpage {
@@ -555,7 +560,7 @@ body {
           transform: translateX(-50%);
   z-index: 500;
   margin: 0;
-  width: 276px;
+  /* width: 276px; */
   height: 50px;
   background-size: 100%;
   background-position: 0;
