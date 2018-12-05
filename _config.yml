@@ -13,7 +13,7 @@ name:				         전지적 서아 시점
 title:               seoa9
 tagline:             'tagline'
 description:         'description'
-url:                 seoa9.github.io
+url:                 seoa9.github.io/index.html
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
